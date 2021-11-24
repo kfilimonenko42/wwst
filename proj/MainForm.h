@@ -3,6 +3,7 @@
 #define _MAIN_FORM_
 
 #include "Header.h"
+#include "Assets.h"
 
 class MainForm : public wxFrame
 {
